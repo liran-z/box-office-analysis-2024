@@ -1,4 +1,4 @@
-# 2024 Box Office Data — Scraping & Visualization
+# Box Office Analysis 2024 — Web Scraping & Visualization
 
 A data project that scrapes worldwide box office data for 2024 and visualizes
 the domestic vs. foreign gross breakdown for the top 50 films.
